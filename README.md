@@ -1,5 +1,5 @@
 # Домашнее задание к занятию "4.Организация тестирования"
-
+[![Build status](https://ci.appveyor.com/api/projects/status/50q0vyj5faccjun5?svg=true)](https://ci.appveyor.com/project/Hav2808/card-validade-tesr)
 
 Правила сдачи задания:
 
